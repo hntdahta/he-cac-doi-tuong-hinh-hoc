@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Class-Hinh\obj\Debug\netcoreapp3.1\Class-Hinh.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Class-Hinh\obj\Debug\netcoreapp3.1\Class-Hinh.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Class-Hinh\obj\Debug\netcoreapp3.1\Class-Hinh.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Class-Hinh\obj\Debug\netcoreapp3.1\Class-Hinh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Class-Hinh\bin\Debug\netcoreapp3.1\Class-Hinh.exe
+C:\Users\Administrator\source\repos\Class-Hinh\bin\Debug\netcoreapp3.1\Class-Hinh.deps.json
+C:\Users\Administrator\source\repos\Class-Hinh\bin\Debug\netcoreapp3.1\Class-Hinh.runtimeconfig.json
+C:\Users\Administrator\source\repos\Class-Hinh\bin\Debug\netcoreapp3.1\Class-Hinh.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Class-Hinh\bin\Debug\netcoreapp3.1\Class-Hinh.dll
+C:\Users\Administrator\source\repos\Class-Hinh\bin\Debug\netcoreapp3.1\Class-Hinh.pdb
+C:\Users\Administrator\source\repos\Class-Hinh\obj\Debug\netcoreapp3.1\Class-Hinh.dll
+C:\Users\Administrator\source\repos\Class-Hinh\obj\Debug\netcoreapp3.1\Class-Hinh.pdb
+C:\Users\Administrator\source\repos\Class-Hinh\obj\Debug\netcoreapp3.1\Class-Hinh.genruntimeconfig.cache
